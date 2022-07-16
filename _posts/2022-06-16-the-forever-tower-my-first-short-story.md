@@ -2,7 +2,7 @@
 layout: post
 title:  "The Forever Tower: My first short story"
 date:   2022-07-17 00:35:00 +0100
-categories: writing
+categories: writing, rooms of the desolate
 ---
 
 ## Realising I love short stories
@@ -13,7 +13,7 @@ I'm someone who likes a wide variety of stories, but one thing I really like the
 
 So when I look for fiction to read, I tend to see short stories with interesting premises and think, 'That looks interesting,' and then go for the novel next to them. I'll need to change that habit, because in writing my first short story, I've discovered I absolutely love them.
 
-There's something very freeing about writing something shorter. I find when I set out to write a novel, sometimes I have trouble working out exactly how I get from point A to B, beginning to end; I know the broad strokes, but how to set out the journey between them can be a complex process that I often struggle with. In a short story, the journey is much shorter; in some ways the broad strokes are the journey, so it's much easier to just get writing. I find I write more quickly with them, and I find I work a surprising degree of detail and density into the pages I do put to paper.
+There's something very freeing about writing something shorter. I find when I set out to write a novel, sometimes I have trouble working out exactly how I get from point A to B, beginning to end; I know the broad strokes, but how to set out the journey between them can be a complex process that I often struggle with. In a short story, the journey is much shorter; in some ways the broad strokes *are* the journey, so it's much easier to just get writing. I find I write more quickly with them, and I find I work a surprising degree of detail and density into the pages I do put to paper.
 
 ## The birth of the Forever Tower
 
@@ -23,7 +23,7 @@ That brought to me visions of an infinite world, where colour and dreams were a 
 
 So I wrote it and I thought it was quite good and I shelved it. Then I [joined RoyalRoad](https://www.royalroad.com/profile/296119), because I wanted to write web fiction, and, while [Belletristica is fantastic](https://belletristica.com/en/users/14865-murdo-maclachlan#profile), it isn't very popular, so there's a lot less visibility there. But upon spontaneous creation of my RoyalRoad account, I realised I didn't know what I actually wanted to publish there. I have many work-in-progress novels and novellas, but none I think are in a good enough spot to share.
 
-Then I remembered my little story from a week or so ago: *The Forever Tower*. So I went back to it and looked it over and thought it might do with some touching up, maybe a small extension. The idea came to me to write an anthology, set in a world of drear motonony and from the views of the downtrodden and hopeless inhabitants of a labyrinth of desolations, tiny yet infinite pocket dimensions I named the *[Rooms of the Desolate](https://www.royalroad.com/fiction/56312/rooms-of-the-desolate)*. Once I started polishing *The Forever Tower* for publication, I... well, let's say I got carried away.
+Then I remembered my little story from a week or so ago: *The Forever Tower*. So I went back to it and looked it over and thought it might do with some touching up, maybe a small extension. The idea came to me to write an anthology, set in a world of drear motonony and from the viewpoints of the downtrodden and hopeless inhabitants of a labyrinth of desolations, tiny yet infinite pocket dimensions I named the *[Rooms of the Desolate](https://www.royalroad.com/fiction/56312/rooms-of-the-desolate)*. Once I started polishing *The Forever Tower* for publication, I... well, let's say I got carried away.
 
 One part grew long and turned into two. Two parts became three, and a more complete story was born. I knew where I wanted to go. I had plans beyond this one story, but it was still a short story of its own, still easier to write than a chapter of a novel. In the end, the story drew out to six parts, each roughly a thousand to one-and-a-half thousand words, and now that it's complete it's probably the piece of writing I'm thus far most satisfied with. And I've discovered I can write short stories quite quickly and still love what I produce; that's a great feeling.
 
