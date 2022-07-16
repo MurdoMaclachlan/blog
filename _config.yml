@@ -30,7 +30,7 @@ github_username:  MurdoMaclachlan
 
 # Build settings
 #theme: minima
-remote_theme: piharpi/jekyll-klise
+remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
