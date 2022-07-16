@@ -29,9 +29,11 @@ twitter_username: murdomaclachlan
 github_username:  MurdoMaclachlan
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: Jekyll-Theme-List/jekyll-klise
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
