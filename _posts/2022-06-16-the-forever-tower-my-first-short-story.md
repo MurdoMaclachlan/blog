@@ -3,7 +3,7 @@ layout: post
 title:  "The Forever Tower: My first short story"
 date:   2022-07-17 00:35:00 +0100
 categories: writing
-tags: rooms of the desolate
+tags: rooms-of-the-desolate
 ---
 
 ## Realising I love short stories
