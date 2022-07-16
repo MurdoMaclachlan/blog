@@ -29,7 +29,7 @@ twitter_username: murdomaclachlan
 github_username:  MurdoMaclachlan
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
