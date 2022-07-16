@@ -1,17 +1,13 @@
 ---
 layout: post
 title:  "What is this thing?"
-date:   2022-01-18 12:00:00 +0100
+date:   2022-01-17 12:00:00 +0100
 categories: introduction
----
-...and how do I use it?
-
 ---
 
 Hello!  
-I'm Murdo Maclachlan, an aspiring author and Software Engineering student from Scotland, and back in September 2021, I created my [website](https://murdomaclachlan.github.io/website/) and optimistically added a page called `blog.html`. This page was completely empty save for two lines of text, aligned to the centre of the page:
 
-<!--more-->
+I'm Murdo Maclachlan, an aspiring author and Software Engineering student from Scotland, and back in September 2021, I created my [website](https://murdomaclachlan.github.io/website/) and optimistically added a page called `blog.html`. This page was completely empty save for two lines of text, aligned to the centre of the page:
 
 > There's nothing here yet.
 >
